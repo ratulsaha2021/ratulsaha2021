@@ -1,28 +1,28 @@
-[# Hi there! I'm Ratul Saha | AI & Backend Engineer 👋 
+# Hi there! I'm Ratul Saha | AI Researcher & Backend Engineer 👋 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Building%20Intelligent%20Scalable%20Systems&fontSize=40&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077b6&height=220&section=header&text=Building%20Intelligent%20Scalable%20Systems&fontSize=40&animation=twinkling" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B4D8&width=435&lines=Neural+Network+Core;Transformer+Architecture+Expert;FastAPI+%26+Backend+Logic;Database+Schema+Optimizer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B4D8&width=500&lines=Neural+Network+Core+Logic;Transformer+Architecture+Expert;High-Performance+FastAPI+Backend;Database+Schema+Optimizer" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧠 AI & Deep Learning Specialty
-- **Neural Networks:** Deep understanding of backpropagation and production-ready deployments.
-- **LLM Architecture:** Expert in **Transformer Models**, specialized **Tokenizers**, and **Encoder modifications**.
-- **Speech Tech:** Specialized in **STT/TTS Fine-tuning** and custom implementation.
+### 🧠 AI & Deep Learning Focus
+- **Neural Networks:** Deep understanding of backpropagation, model production, and core mathematical foundations.
+- **LLM & Transformers:** Experienced in specialized **Tokenizers**, **Encoder modifications**, and lightweight architecture optimization.
+- **Medical AI:** Developed systems for **Chest Disease Detection** and **Tuberculosis Diagnosis** using CNNs and transfer learning.
 
 ### ⚙️ Backend & System Design
-- **High-Performance APIs:** Expert in **FastAPI** with a focus on "Fast Operation" and low latency.
-- **Architecture:** Multi-manager authentication, **Load Balancing**, and **Caching** strategies.
-- **Database Engineering:** Specialized in **PostgreSQL Array** storage, complex **SQL Joins**, and **Schema Redundancy** management.
+- **High-Performance APIs:** Expert in **FastAPI** with a focus on "Fast Operation" and low-latency system logic.
+- **Scalability:** Proficient in **Multi-manager authentication**, **Load Balancing**, and **Caching** strategies.
+- **Databases:** Specialized in **PostgreSQL Array** storage and managing **Data Redundancy** through advanced schema design.
 
 ---
 
-### 🛠 Tech Stack (Power Level)
+### 🛠 Technical Ecosystem
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
@@ -33,18 +33,23 @@
 
 ---
 
-### 📊 Engineering Dashboard
-| Category | Expertise Level | Focus Area |
+### 📊 Engineering Expertise Dashboard
+| Category | Technical Level | Key Specialization |
 | :--- | :--- | :--- |
-| **Artificial Intelligence** | ██████████ 95% | Neural Core & Transformers |
-| **Backend Logic** | █████████░ 90% | FastAPI & Scalable Systems |
-| **Database Design** | █████████░ 90% | SQL Optimization & Arrays |
-| **System Architecture** | ████████░░ 85% | Load Balancing & Caching |
+| **Artificial Intelligence** | ██████████ 95% | Core Neural logic & Transformers |
+| **Backend Architecture** | █████████░ 90% | FastAPI, Scaling & Load Balancing |
+| **Database Engineering** | █████████░ 90% | SQL Optimization & PG Arrays |
+| **System Security** | ████████░░ 85% | Multi-manager Auth & Caching |
 
 ---
 
-### 📫 Let's Talk Technical
-[LinkedIn](YOUR_LINKEDIN) • [Portfolio](YOUR_PORTFOLIO) • [Email](mailto:your-email@example.com)
+### 🤝 Connect & Collaborate
+<p align="left">
+<a href="https://www.linkedin.com/in/ratul-saha-32112720b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://ratul-saha-portfolio-verse.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-252a34?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+<a href="mailto:ratul.saha.rs28@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-<p align="right">(last updated: 2026)</p>
-](https://ratul-saha-portfolio-verse.lovable.app/)
+**Explore me:** [Ratul Saha | Portfolio](https://ratul-saha-portfolio-verse.lovable.app/)
+
+<p align="right"><i>Refining the future through AI & robust engineering.</i></p>
