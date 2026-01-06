@@ -1,4 +1,4 @@
-# Hi there! I'm Ratul Saha | AI & Backend Engineer 👋 
+[# Hi there! I'm Ratul Saha | AI & Backend Engineer 👋 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Building%20Intelligent%20Scalable%20Systems&fontSize=40&animation=twinkling" />
@@ -47,3 +47,4 @@
 [LinkedIn](YOUR_LINKEDIN) • [Portfolio](YOUR_PORTFOLIO) • [Email](mailto:your-email@example.com)
 
 <p align="right">(last updated: 2026)</p>
+](https://ratul-saha-portfolio-verse.lovable.app/)
